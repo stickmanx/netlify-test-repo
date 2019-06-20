@@ -3,6 +3,8 @@ title: Test
 ---
 ![](/media_folder/portugal-4216645_1280.jpg)
 
+![](/images/uploads/beach-2836300_1280.jpg)
+
 ![](/media_folder/portugal-4216645_1280.jpg)
 
 Hello
@@ -13,4 +15,4 @@ More stuff!
 
 
 
-asdfasfa
+adfasdfasasdfasfa
